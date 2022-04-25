@@ -4,7 +4,6 @@
 #include "Systick.h"
 
 uint8_t rfid_IDs[4] = {0};
-char data[20];
 
 int main(void)
 {
