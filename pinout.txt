@@ -1,0 +1,8 @@
+RFID --- STM32
+VCC -- 3.3V
+RST -- PA8( Output mode)
+GND -- GND
+MISO -- PA6
+MOSI -- PA7
+SCK -- PA5
+NSS -- PB0
